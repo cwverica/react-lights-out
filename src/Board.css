@@ -1,3 +1,4 @@
 .Board {
-  margin: 0 auto;
+  margin: 0 20vw auto;
+  border: 3px black solid;
 }
